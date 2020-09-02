@@ -1,5 +1,5 @@
-# Kick start your tailwind project with Tailwind Quickstart
-Simple kick starter project for getting up and runnign with Tailwindcss for frontend. 
+# Get started with Tailwind CSS
+This repo helps you get up and running with tailwind as quickly as possible.
 
 ## Get started
 1. Clone the repo
