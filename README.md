@@ -1,11 +1,11 @@
-# Kick start your tailwind project with Tailwind Fashaa
+# Kick start your tailwind project with Tailwind Quickstart
 Simple kick starter project for getting up and runnign with Tailwindcss for frontend. 
 
 ## Get started
 1. Clone the repo
 ```
-git clone https://github.com/inerds/tailwind-fashaa.git tailwind-fashaa
-cd tailwind-fashaa
+git clone https://github.com/inerds/Tailwind-quickstart.git tailwind-quickstart
+cd tailwind-quickstart
 ```
 
 2. Install dependencies
