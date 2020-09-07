@@ -1,13 +1,27 @@
 {
-  "name": "tailwind-fashaa",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.html",
+  "name": "Tailwind Quickstart",
+  "description": "Get started with TailwindCSS as quickly as possible",
+  "version": "0.15",
+  "keywords": [
+    "css, tailwindcss, tailwind, postcss,"
+  ],
+  "maintainers": [
+    {
+      "name": "Hussain Inad",
+      "email": "nerdsane@gmail.com",
+      "web": "https://github.com/inerds/"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/inerds/Tailwind-quickstart.git"
+    }
+  ],
   "scripts": {
     "build": "postcss css/tailwind.css -o public/css/tailwind.css",
     "watch": "postcss css/tailwind.css -o public/css/tailwind.css --watch"
   },
-  "keywords": [],
   "author": "Hussain Inad",
   "license": "ISC",
   "dependencies": {
