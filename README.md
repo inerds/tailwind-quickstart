@@ -4,7 +4,7 @@ This repo helps you get up and running with tailwind as quickly as possible.
 ## Get started
 1. Clone the repo
 ```
-git clone https://github.com/inerds/tailwind-quickstart.git tailwind-quickstart
+git clone https://github.com/inerds/tailwind-quickstart.git
 cd tailwind-quickstart
 ```
 
