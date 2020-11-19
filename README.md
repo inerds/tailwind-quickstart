@@ -1,6 +1,8 @@
 # Get started with Tailwind CSS
 This repo helps you get up and running with tailwind as quickly as possible.
+
 **Updated to TailwindCSS 2.0**.
+
 ## Get started
 1. Clone the repo
 ```
