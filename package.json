@@ -2,9 +2,6 @@
   "name": "tailwind-quickstart",
   "description": "Get started with TailwindCSS as quickly as possible",
   "version": "1.0.15",
-  "keywords": [
-    "css, tailwindcss, tailwind, postcss,"
-  ],
   "maintainers": [
     {
       "name": "Hussain Inad",
@@ -18,19 +15,29 @@
       "url": "https://github.com/inerds/Tailwind-quickstart.git"
     }
   ],
+  "main": "index.html",
   "scripts": {
-    "build": "postcss css/tailwind.css -o public/css/tailwind.css",
-    "watch": "postcss css/tailwind.css -o public/css/tailwind.css --watch"
+    "dev": "vite",
+    "build": "vite build"
+
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inerds/tailwind-quickstart.git"
+  },
+  "keywords": [
+    "css, tailwindcss, tailwind, postcss,"
+  ],
   "author": "Hussain Inad",
-  "license": "ISC",
-  "dependencies": {
-    "@fullhuman/postcss-purgecss": "^2.3.0",
-    "autoprefixer": "^9.8.6",
-    "cssnano": "^4.1.10",
-    "liveserver": "^0.1.20",
-    "postcss": "^7.0.35",
-    "tailwindcss": "^2.0.1-compat",
-    "watch": "^1.0.2"
+   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inerds/tailwind-quickstart/issues"
+  },
+  "homepage": "https://github.com/inerds/tailwind-quickstart#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.8",
+    "tailwindcss": "^2.0.4",
+    "vite": "^2.1.2"
   }
 }
