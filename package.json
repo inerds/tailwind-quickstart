@@ -19,7 +19,6 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build"
-
   },
   "repository": {
     "type": "git",
@@ -29,7 +28,7 @@
     "css, tailwindcss, tailwind, postcss,"
   ],
   "author": "Hussain Inad",
-   "license": "ISC",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/inerds/tailwind-quickstart/issues"
   },
