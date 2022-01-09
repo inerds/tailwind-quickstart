@@ -34,9 +34,9 @@
   },
   "homepage": "https://github.com/inerds/tailwind-quickstart#readme",
   "devDependencies": {
-    "autoprefixer": "^10.2.5",
-    "postcss": "^8.2.8",
-    "tailwindcss": "^2.1.2",
-    "vite": "^2.1.2"
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.5",
+    "tailwindcss": "^3.0.12",
+    "vite": "^2.7.10"
   }
 }
