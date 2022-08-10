@@ -2,4 +2,4 @@
 export default {
     // config options
     root: "./public",
-  }
+};
