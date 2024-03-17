@@ -1,42 +1,42 @@
 {
-  "name": "tailwind-quickstart",
-  "description": "Get started with TailwindCSS as quickly as possible",
-  "version": "1.0.15",
-  "maintainers": [
-    {
-      "name": "Hussain Inad",
-      "email": "nerdsane@gmail.com",
-      "web": "https://github.com/inerds/"
+    "name": "tailwind-quickstart",
+    "description": "Get started with TailwindCSS as quickly as possible",
+    "version": "1.0.15",
+    "maintainers": [
+        {
+            "name": "Hussain Inad",
+            "email": "nerdsane@gmail.com",
+            "web": "https://github.com/inerds/"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/inerds/Tailwind-quickstart.git"
+        }
+    ],
+    "main": "public/index.html",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/inerds/tailwind-quickstart.git"
+    },
+    "keywords": [
+        "css, tailwindcss, tailwind, postcss,"
+    ],
+    "author": "Hussain Inad",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/inerds/tailwind-quickstart/issues"
+    },
+    "homepage": "https://github.com/inerds/tailwind-quickstart#readme",
+    "devDependencies": {
+        "autoprefixer": "^10.4.18",
+        "postcss": "^8.4.35",
+        "tailwindcss": "^3.4.1",
+        "vite": "^5.1.6"
     }
-  ],
-  "repositories": [
-    {
-      "type": "git",
-      "url": "https://github.com/inerds/Tailwind-quickstart.git"
-    }
-  ],
-  "main": "public/index.html",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/inerds/tailwind-quickstart.git"
-  },
-  "keywords": [
-    "css, tailwindcss, tailwind, postcss,"
-  ],
-  "author": "Hussain Inad",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/inerds/tailwind-quickstart/issues"
-  },
-  "homepage": "https://github.com/inerds/tailwind-quickstart#readme",
-  "devDependencies": {
-    "autoprefixer": "^10.4.8",
-    "postcss": "^8.4.16",
-    "tailwindcss": "^3.1.8",
-    "vite": "^2.7.10"
-  }
 }
